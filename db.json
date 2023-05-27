@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "sản phẩm A",
+      "price": 50000,
+      "id": 1
+    },
+    {
+      "name": "sản phẩm 5",
+      "price": "560",
+      "id": 1
+    },
+    {
+      "name": "sản phẩm C",
+      "price": "700",
+      "id": 1
+    },
+    {
+      "name": "sản phẩm D",
+      "price": "900",
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm G",
+      "price": "1000",
+      "id": 2
+    }
+  ]
+}
